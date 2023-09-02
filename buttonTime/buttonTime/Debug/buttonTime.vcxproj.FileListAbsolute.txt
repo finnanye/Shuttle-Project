@@ -1,0 +1,3 @@
+C:\Users\Bea\source\repos\buttonTime\buttonTime\Debug\buttonTime.MyForm.resources
+C:\Users\Bea\source\repos\buttonTime\buttonTime\Debug\buttonTime.vcxproj.GenerateResource.cache
+C:\Users\Bea\source\repos\buttonTime\buttonTime\Debug\buttonTime.vcxproj.AssemblyReference.cache

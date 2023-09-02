@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(861,22): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(864,22): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(867,22): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(875,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(878,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(881,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(888,22): warning C4129: 'H': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(891,22): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(894,22): warning C4129: 'T': unrecognized character escape sequence
+  MyForm1.cpp
+  Source.cpp
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(861,22): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(864,22): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(867,22): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(875,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(878,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(881,22): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(888,22): warning C4129: 'H': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(891,22): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Bea\source\repos\buttonTime\buttonTime\MyForm.h(894,22): warning C4129: 'T': unrecognized character escape sequence
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  buttonTime.vcxproj -> C:\Users\Bea\source\repos\buttonTime\Debug\buttonTime.exe
