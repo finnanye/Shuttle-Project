@@ -1,2 +1,2 @@
 ﻿# Shuttle-Project
-# see MyForm.h for bulk of cpp code
+# Run buttonTime.exe for application see MyForm.h for the bulk of cpp code
